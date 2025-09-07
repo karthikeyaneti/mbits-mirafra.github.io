@@ -2,7 +2,7 @@
 layout: page
 title: JTAG VIP
 description: VIP for JTAG protocol.
-img: assets/img/apb.png
+img: assets/img/jtag.png
 status: Controller
 importance: 1
 contributors: Swasthik , Hemanth
