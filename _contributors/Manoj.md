@@ -1,6 +1,6 @@
 ---
 name: Manoj Hegde 
 short_name: Manoj
-profile_pic: anitha.jpg 
+profile_pic: 
 email: manojhegde@mirafra.com
 ---
