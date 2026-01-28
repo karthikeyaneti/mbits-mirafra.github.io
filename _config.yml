@@ -26,7 +26,7 @@ show_excerpts: true
 description: >- # this means to ignore newlines until "baseurl:"
   Website Design: <a src="https://github.com/aadikuchlous" style="text-decoration:underline">Aadi Kuchlous</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://swasthikkamath.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mbits-mirafra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: jekyllrb
   #github_username:  jekyll
 
@@ -85,6 +85,7 @@ scholar:
   bibliography_template: bib
 
 max_width: 800px
+
 
 
 
